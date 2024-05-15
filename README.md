@@ -26,9 +26,21 @@ ____
 
 Dê exemplos de trade-offs:
 
-1º Cypress com typeScript x Playwright: Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, porém o processamento é lento, quando comparado com playwright. Foi escolhido para teste de front-end no projeto por seu tmepo no mercado. 
+1º Cypress:
+Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, aproximadanete 7 anos no mercado.
+O Cypress uma velocidade de execução rápida quando comparado com outras ferramentas de teste de front-end, porém a confiabilidade pode ser  perdida ao longo do processo, em ambientescom muitas solicitações de rede ou interações complexas com APIs, podem ocorrer instabilidades nos testes.
+O Cypress é uma ferramenta de código aberto e gratuita para uso individual e em projetos de código aberto.
+Não é necessária a instalação a parte de um driver para execução dos testes, assim como selenium.
 
-2º Playwrigth com typescript x Cypress: Cenários de teste fáceis de escrever, fácil entendimento da sintexe, não é necessário a instalação manual do chormeDrive, boa performance, porém a ferramenta é "nova", a documentação é pouco clara e existem poucos fóruns para tirar dúvidas. Esse foi um dos motivos para que a ferramenta não fosse usada na automação do projeto. 
+
+
+2º Java: 
+Sua sintaxe verbose, sendo necessário escrever mais código para realizar tarefas simples em comparação com linguagens mais concisas. Isso pode resultar em código mais longo e menos legível em comparação com outras linguagens como python.
+Tempo de inicialização mais longo do que aplicativos escritos em linguagens compiladas, devido à necessidade de inicializar a JVM e carregar todas as classes necessárias.
+Os programas escritos em Java podem ser executados em qualquer plataforma que tenha uma máquina virtual Java (JVM).
+Java é uma linguagem de programação robusta, exibe os possíveis erros de programação em tempo de compilação.
+
+
 
 3º Selenium com javascript: Bom desempenho, sintaxe de nível médio de entendimento quando comparado com o playwright, necessibdade da instalação manual do chromedrive (ou outro navegador), documentação extensa e a mais antiga das ferramentas citadas. Ele é usado em partes do projeot par aa automação, porém com dificuldade de encontrar QA com conheicmento em Java a opção para automação de teste está sendo migrada para cypress com typescript.
 
