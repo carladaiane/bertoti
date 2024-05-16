@@ -13,12 +13,18 @@ ___
 > We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 
- - Link: https://abseil.io/resources/swe-book
+ - Link Livro: https://abseil.io/resources/swe-book
 
 
 ## Com base nesses dois textos, diga: O que é engenharia de Software?
 
-É o planejamento mais complexo de uma estrutura total de desenvolvimento.
+  É o planejamento mais complexo de uma estrutura total de desenvolvimento. Engenharia de software não é programção, mas a programação está dentro da engenharia de software. 
+A engenharia de software engloba: 
+- o desenvolvimento inicial;
+- a modificação do software;
+- E a manutenção do software ao longo do tempo.
+
+A engenharia de software leva em consideração fatores como o tempo, a escala do projeto e os compromissos envolvidos. PLaneja comob lidar com a passagem do tempo, a necessidade futura de mudanças, a eficiência do software produzido e da organização que o produz, e a tomada de decisões complexas com base em estimativas imprecisas de tempo e crescimento. Resumindo, a engenharia de software abrange não apenas a programação, mas também aspectos amplos relacionados à criação, manutenção e escalabilidade do software.
 
 ____
 
@@ -26,23 +32,23 @@ ____
 
 Dê exemplos de trade-offs:
 
-1º Cypress:
+**1º Cypress:**
 Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, aproximadanete 7 anos no mercado.
 O Cypress uma velocidade de execução rápida quando comparado com outras ferramentas de teste de front-end, porém a confiabilidade pode ser  perdida ao longo do processo, em ambientescom muitas solicitações de rede ou interações complexas com APIs, podem ocorrer instabilidades nos testes.
 O Cypress é uma ferramenta de código aberto e gratuita para uso individual e em projetos de código aberto.
 Não é necessária a instalação a parte de um driver para execução dos testes, assim como selenium.
-
-
+- Onde Cypress é usado: [Amazon](https://www.amazon.com.br/)")
 
 2º Java: 
 Sua sintaxe verbose, sendo necessário escrever mais código para realizar tarefas simples em comparação com linguagens mais concisas. Isso pode resultar em código mais longo e menos legível em comparação com outras linguagens como python.
 Tempo de inicialização mais longo do que aplicativos escritos em linguagens compiladas, devido à necessidade de inicializar a JVM e carregar todas as classes necessárias.
 Os programas escritos em Java podem ser executados em qualquer plataforma que tenha uma máquina virtual Java (JVM).
 Java é uma linguagem de programação robusta, exibe os possíveis erros de programação em tempo de compilação.
+- Onde Java é usado: [Amazon](https://www.amazon.com.br/)")
 
+3º Elixir: É uma linguagem de programação funcional, baseada na Erlang Virtual Machine (BEAM), que também é utilizada na linguagem Erlang. O elixir tem uma ótima vantagem na escalabilidade pois temsua arquitetura baseada em Erlang, sendo altamente escalável e tolerante a falhas. Usada para construir sistemas distribuídos e de alta disponibilidade. Essa ferramenta é excelente para atividades paralelas, pois fornece um modelo de concorrência baseado em processos leves, que são executados de forma independente e isolada. Isso permite que os programas Elixir lidem facilmente com tarefas concorrentes e paralelas. Por outroi lado, em algumas áreas específicas, como manipulação intensiva de dados ou cálculos numéricos intensivos, outras linguagens como C e C++ podem ter um desempenho melhor devido à sua otimização específica, mesmo que exijam mais esforço e tempo.
+- Onde Exilir é usado: [Discord](https://discord.com/")
 
-
-3º Selenium com javascript: Bom desempenho, sintaxe de nível médio de entendimento quando comparado com o playwright, necessibdade da instalação manual do chromedrive (ou outro navegador), documentação extensa e a mais antiga das ferramentas citadas. Ele é usado em partes do projeot par aa automação, porém com dificuldade de encontrar QA com conheicmento em Java a opção para automação de teste está sendo migrada para cypress com typescript.
 
 ___
 
