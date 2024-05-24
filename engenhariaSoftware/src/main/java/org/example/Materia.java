@@ -1,13 +1,13 @@
 package org.example;
 
 public class Materia {
-    private String nome;
+    private String nomeMateria;
 
-    public Materia(String nome) {
-        this.nome = nome;
+    public Materia(String nomeMateria) {
+        this.nomeMateria = nomeMateria;
     }
 
-    public String getNome() {
-        return nome;
+    public String getNomeMateria() {
+        return nomeMateria;
     }
 }

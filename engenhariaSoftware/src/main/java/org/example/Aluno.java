@@ -21,6 +21,11 @@ public class Aluno {
     }
 
     public void adicionarNota(Nota nota) {
-        this.notas.add(nota);
+        for (Nota n : notas) {
+            if (n.getMateria().equals(nota.getMateria())) {
+                throw new IllegalArgumentException("O aluno já possui uma nota para essa matéria.");
+            }
+        }
+        notas.add(nota);
     }
 }
