@@ -33,10 +33,15 @@ ____
 Dê exemplos de trade-offs:
 
 **1º Cypress:**
-Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, aproximadanete 7 anos no mercado.
+Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, aproximadanete 7 anos no mercado. O Cypress gera relatórios informativos e bem formatados, facilitando a análise dos resultados dos testes.
 O Cypress uma velocidade de execução rápida quando comparado com outras ferramentas de teste de front-end, porém a confiabilidade pode ser  perdida ao longo do processo, em ambientescom muitas solicitações de rede ou interações complexas com APIs, podem ocorrer instabilidades nos testes.
 O Cypress é uma ferramenta de código aberto e gratuita para uso individual e em projetos de código aberto.
 Não é necessária a instalação a parte de um driver para execução dos testes, assim como selenium.
+O Cypress é focado em aplicações web e não oferece suporte nativo a testes em aplicativos móveis, o Cypress também pode ser difícil de escalar se houver uma grande quantidade de testes.
+Temosa um meio termo em relação a custo, o Cypress é uma ferramenta de código aberto, porém algumas funcionalidades avançadas estão disponíveis apenas na versão paga do Cypress Dashboard, como máquinas virtuais, servidores e armazenamento.
+A ferramenta as vezes roda mais rápido que a API da aplicação e por isso apresenta esses problemas de sincronização.
+
+
 - Onde Cypress é usado: [Amazon](https://www.amazon.com.br/)")
 
 2º Java: 
