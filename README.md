@@ -1,7 +1,4 @@
-___
-
 # Atividades Bertoti
-
 
 ## Atividade 1
 
@@ -33,22 +30,43 @@ ____
 Dê exemplos de trade-offs:
 
 **1º Cypress:**
-Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda, aproximadanete 7 anos no mercado. O Cypress gera relatórios informativos e bem formatados, facilitando a análise dos resultados dos testes.
-O Cypress uma velocidade de execução rápida quando comparado com outras ferramentas de teste de front-end, porém a confiabilidade pode ser  perdida ao longo do processo, em ambientescom muitas solicitações de rede ou interações complexas com APIs, podem ocorrer instabilidades nos testes.
-O Cypress é uma ferramenta de código aberto e gratuita para uso individual e em projetos de código aberto.
-Não é necessária a instalação a parte de um driver para execução dos testes, assim como selenium.
-O Cypress é focado em aplicações web e não oferece suporte nativo a testes em aplicativos móveis, o Cypress também pode ser difícil de escalar se houver uma grande quantidade de testes.
-Temosa um meio termo em relação a custo, o Cypress é uma ferramenta de código aberto, porém algumas funcionalidades avançadas estão disponíveis apenas na versão paga do Cypress Dashboard, como máquinas virtuais, servidores e armazenamento.
-A ferramenta as vezes roda mais rápido que a API da aplicação e por isso apresenta esses problemas de sincronização.
+Contras:
+- Focado em aplicações web, não oferece suporte nativo a testes em aplicativos móveis;
+- Difícil de escalar se houver uma grande quantidade de testes;
+- Custo com funcionalidades avançadas estão disponíveis apenas na versão paga do Cypress (dashboard, máquinas virtuais, servidores e armazenamento);
+- O Cypress não oferece suporte nativo a testes de acessibilidade;
+- Problemas de sincronização em relação a API;
+- Depender de plugins de terceiros;
+- Dificuldade execução de testes em múltiplos dispositivos simultaneamente;
+- Limitações para aplicações que requerem autenticação complexa ou em cenários de autenticação específicos, dificuldades na configuração dos testes;
+- O Cypress pode não ter recursos nativos para interagir com esses elementos (Exemplo: notificação);
+- Não recomendado para aplicações altamente interativas;
+- A confiabilidade pode ser perdida ao longo do processo, em ambientescom muitas solicitações de rede ou interações complexas com APIs, podem ocorrer instabilidades nos testes.
 
+Prós:
+- Uma das ferramentas mais completas para teste, com documentação extensa, boa performance, diversos fóruns de ajuda;
+- 7 anos no mercado;
+- O Cypress gera relatórios informativos e bem formatados, facilitando a análise dos resultados dos testes;
+- O Cypress uma velocidade de execução rápida quando comparado com outras ferramentas de teste de front-end;
+- O Cypress é uma ferramenta de código aberto e gratuita para uso individual e em projetos de código aberto.
+- Não é necessária a instalação a parte de um driver para execução dos testes, assim como selenium.
 
-- Onde Cypress é usado: [Amazon](https://www.amazon.com.br/)")
+> Onde Cypress é usado: [Amazon](https://www.amazon.com.br/)")
 
 2º Java: 
-Sua sintaxe verbose, sendo necessário escrever mais código para realizar tarefas simples em comparação com linguagens mais concisas. Isso pode resultar em código mais longo e menos legível em comparação com outras linguagens como python.
-Tempo de inicialização mais longo do que aplicativos escritos em linguagens compiladas, devido à necessidade de inicializar a JVM e carregar todas as classes necessárias.
-Os programas escritos em Java podem ser executados em qualquer plataforma que tenha uma máquina virtual Java (JVM).
-Java é uma linguagem de programação robusta, exibe os possíveis erros de programação em tempo de compilação.
+
+Contras:
+
+- Sua sintaxe verbose, sendo necessário escrever mais código para realizar tarefas simples em comparação com linguagens mais concisas,
+- Tempo de inicialização mais longo do que aplicativos escritos em linguagens compiladas, devido à necessidade de inicializar a JVM e carregar todas as classes necessárias,
+- Java é uma linguagem de programação robusta, exibe os possíveis erros de programação em tempo de compilação, então não tem tanta tolerancia a erros;
+- Consome muita me consumida, O uso da JVM pode consumir muita memória do sistema, o que pode ser um problema em sistemas com pouca memória disponível.
+
+Prós:  
+- Os programas escritos em Java podem ser executados em qualquer plataforma que tenha uma máquina virtual Java (JVM).
+- Java é uma linguagem de programação robusta, exibe os possíveis erros de programação em tempo de compilação.
+- 
+
 - Onde Java é usado: [Amazon](https://www.amazon.com.br/)")
 
 3º Elixir: É uma linguagem de programação funcional, baseada na Erlang Virtual Machine (BEAM), que também é utilizada na linguagem Erlang. O elixir tem uma ótima vantagem na escalabilidade pois temsua arquitetura baseada em Erlang, sendo altamente escalável e tolerante a falhas. Usada para construir sistemas distribuídos e de alta disponibilidade. Essa ferramenta é excelente para atividades paralelas, pois fornece um modelo de concorrência baseado em processos leves, que são executados de forma independente e isolada. Isso permite que os programas Elixir lidem facilmente com tarefas concorrentes e paralelas. Por outroi lado, em algumas áreas específicas, como manipulação intensiva de dados ou cálculos numéricos intensivos, outras linguagens como C e C++ podem ter um desempenho melhor devido à sua otimização específica, mesmo que exijam mais esforço e tempo.
