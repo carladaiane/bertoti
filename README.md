@@ -119,11 +119,13 @@ Prós:
 3º Elixir: É uma linguagem de programação funcional, baseada na Erlang Virtual Machine (BEAM), que também é utilizada na linguagem Erlang. O elixir tem uma ótima vantagem na escalabilidade pois temsua arquitetura baseada em Erlang, sendo altamente escalável e tolerante a falhas. Usada para construir sistemas distribuídos e de alta disponibilidade. Essa ferramenta é excelente para atividades paralelas, pois fornece um modelo de concorrência baseado em processos leves, que são executados de forma independente e isolada. Isso permite que os programas Elixir lidem facilmente com tarefas concorrentes e paralelas. Por outroi lado, em algumas áreas específicas, como manipulação intensiva de dados ou cálculos numéricos intensivos, outras linguagens como C e C++ podem ter um desempenho melhor devido à sua otimização específica, mesmo que exijam mais esforço e tempo.
 
 Prós:
-
+- ...
+- ...
 
 
 Contras:
-
+- ...
+- ...
 
 - Onde Exilir é usado: [Discord](https://discord.com/")
 
@@ -132,23 +134,11 @@ Contras:
 <details close>
   <summary>Atividade 3</summary>
 
-#### Slide do teams página 24 ao 29
-
-Escrever o nome da arquitetura, onde você aplicaria e justificar sua escolha com base na lista de tradoff
-
-comentário, explicação do prof:
-
-Microservices Architecture: Em aplicações de grande porte, onde é necessário a manutenção de partes do produto, nisso a parte que foi alterada tem menos chances
-
-1º MongoDB: ótimo e rápido para escrita de dados, porém paa a leitura dos dados ele apresenta lentidão.
-
-2º Python: Uma linguagem simples de ser escrita, fácil entendimento, porém ela tem atalhos que o usuário usa, está longe da base do hardware, é uma lingaugem mais lenta.
-
-3º Java: 
+#### Comentar sobre os tipos de arquiteturas - Slide do teams página 24 ao 29
 
 ### Trade-off de arquiteturas:
 
-Layered Architecture Style(Arquitetura em camadas):
+**Layered Architecture Style(Arquitetura em camadas):**
 
 A arquitetura em camadas (Layered Architecture) é um estilo de arquitetura de software onde o sistema é dividido em várias camadas, cada uma com responsabilidades distintas e bem definidas. Esse estilo é amplamente utilizado devido à sua simplicidade e organização clara. Aqui estão os pontos positivos e negativos dessa abordagem:
 
@@ -167,35 +157,67 @@ Pontos Negativos:
 Uso: Aplicações de E-commerce e Sistemas Bancários e Financeiros
 
 
-Pipeline Architecture Style(Arquitetura em pipeline):
+**Pipeline Architecture Style(Arquitetura em pipeline):**
 
 Pontos positivo: 
+- ...
+- ...
+- ...
 Pontos negativos:
+- ...
+- ...
+- ...
+Uso:
+
+
+
+
+**Microkernel Architecture Style(Arquitetura em camadas):**
+
+Pontos positivo: 
+- ...
+- ...
+- ...
+Pontos negativos:
+- ...
+- ...
+- ...
 Uso: 
 
-
-Microkernel Architecture Style(Arquitetura em camadas):
+**Service-based Architecture Style(Arquitetura baseada em serviços):**
 
 Pontos positivo: 
+- ...
+- ...
+- ...
 Pontos negativos:
+- ...
+- ...
+- ...
 Uso: 
 
-Service-based Architecture Style(Arquitetura baseada em serviços):
+**Event-driven Architecture Style(Arquitetura baseada em eventos):**
 
 Pontos positivo: 
+- ...
+- ...
+- ...
 Pontos negativos:
+- ...
+- ...
+- ...
 Uso: 
 
-Event-driven Architecture Style(Arquitetura baseada em eventos):
+**Microservices Architecture (Arquitetura de microsserviços):**
 
 Pontos positivo: 
+- ...
+- ...
+- ...
 Pontos negativos:
-Uso: 
-
-Microservices Architecture (Arquitetura de microsserviços):
-
-Pontos positivo: 
-Pontos negativos:
+- ...
+- ...
+- ...
 Uso: 
 
 </details>
