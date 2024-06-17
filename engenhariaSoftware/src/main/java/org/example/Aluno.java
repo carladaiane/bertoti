@@ -1,31 +1,30 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Aluno {
     private String nome;
-    private List<Nota> notas;
+    private String materia;
+    private double nota;
 
-    public Aluno(String nome) {
+    public Aluno(String nome, String materia, double nota) {
         this.nome = nome;
-        this.notas = new ArrayList<>();
+        this.materia = materia;
+        this.nota = nota;
     }
 
     public String getNome() {
         return nome;
     }
 
-    public List<Nota> getNotas() {
-        return notas;
+    public String getMateria() {
+        return materia;
     }
 
-    public void adicionarNota(Nota nota) {
-        for (Nota n : notas) {
-            if (n.getMateria().equals(nota.getMateria())) {
-                throw new IllegalArgumentException("O aluno já possui uma nota para essa matéria.");
-            }
-        }
-        notas.add(nota);
+    public double getNota() {
+        return nota;
+    }
+
+    @Override
+    public String toString() {
+        return "Nome: " + nome + ", Matéria: " + materia + ", Nota: " + nota;
     }
 }
