@@ -226,24 +226,45 @@ Uso:
 <details close>
   <summary>Atividade 4</summary>
 
- #### Escolha um sistema
-Defina sua arquitetura debatendo tradeoffs com os requisitos não funcionais comentados em aula
-Você irá criar o sistema em java
-Qual sistema escolhi?
-Porque escolhi?
-Um sistema que com misto de simplicidade e complexidade. As notas dos alunos deverão ser lançadas para cada atividade ou prova.
+ #### Defina sua arquitetura debatendo tradeoffs com os requisitos não funcionais comentados em aula:
 
-Qual arquitetura escolhi?
-Porque escolhi essa arquitetura?
-Trade offs:
+Monolithic architecture:
+Uma arquitetura monolítica é um estilo de arquitetura de software onde toda a aplicação é desenvolvida como um único serviço ou aplicativo, normalmente dividido em diferentes módulos ou camadas
 
-Ferramenta para criação da classe: draw.io
+#### Trade-offs com requisitos não funcionais:
+- Desempenho: Normalmente, as arquiteturas monolíticas têm menos overhead de comunicação entre componentes, o que pode resultar em melhor desempenho em comparação com arquiteturas distribuídas.
+- Implantação: Uma das principais vantagens dos monolitos é que eles são relativamente simples de construir e implantar, porém difícil de escalar.
+- Escalabilidade: É mais difícil escalar horizontalmente (adicionar mais instâncias do aplicativo), pois toda a aplicação precisa ser replicada, o que pode aumentar a complexidade.
+- Manutenibilidade: A manutenção, teste e depuração podem ser mais fáceis de testar e depurar, já que todas as partes da aplicação estão em um único lugar.
 </details>
 
 <details close>
   <summary>Atividade 5</summary>
 
- - Inicie seu diagrama de classes de uma das partes da arquitetura (escolha uma parte de backend por favor).
+### Diagrama de classes de uma das partes da arquitetura:
+
+![Classe UML (2)](https://github.com/carladaiane/bertoti/assets/96966614/31aa7c9f-ee2a-4a7e-afd7-9985d23a42aa)
+
 </details>
+
+<details close>
+  <summary>Atividade 6 e 7</summary>
+
+ ### Código e testes para o diagrama de classe criado acima na pasta "engenhariaSoftware".
+
+</details>
+
+
+<details close>
+  <summary>Atividade 8</summary>
+
+ ### UML
+
+![Diagrama de caso de uso (1)](https://github.com/carladaiane/bertoti/assets/96966614/cb4d868d-d101-4e8d-a869-7ade50b4dcd4)
+
+ 
+
+</details>
+
 
 
