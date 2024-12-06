@@ -27,7 +27,6 @@ public class ProdutoService {
         if(pm.getNome().equals("")){
             rm.setMensagem("O nome do produto é obrigatório");
             return new ResponseEntity<RespostaModel>(rm, HttpStatus.BAD_REQUEST);
-
         }else if(pm.getMarca().equals("")){
             rm.setMensagem("O nome da marca é obrigatório");
             return new ResponseEntity<RespostaModel>(rm, HttpStatus.BAD_REQUEST);
