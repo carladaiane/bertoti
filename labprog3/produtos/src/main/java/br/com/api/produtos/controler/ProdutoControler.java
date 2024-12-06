@@ -21,7 +21,7 @@ public class ProdutoControler {
 
     @PostMapping("/cadastrar")
     public ResponseEntity<?>cadastrar(@RequestBody ProdutoModel pm) {
-        return ps.cadastrar(pm);
+        return ps.cadastrarAlterar(pm,"cadastrar");
     }
     
     @GetMapping("/listar")
