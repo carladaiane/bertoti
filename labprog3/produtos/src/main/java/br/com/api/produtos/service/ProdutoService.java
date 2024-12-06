@@ -32,11 +32,18 @@ public class ProdutoService {
             return new ResponseEntity<RespostaModel>(rm, HttpStatus.BAD_REQUEST);
         }else{
             if(acao.equals("cadastrar")){
-                return new ResponseEntity<RespostaModel>(rm, HttpStatus.CREATED);
+                return new ResponseEntity<ProdutoModel>(pr.save(pm),HttpStatus.CREATED);
             }else{
-            return new ResponseEntity<RespostaModel>(rm, HttpStatus.OK);
+            return new ResponseEntity<ProdutoModel>(pr.save(pm),HttpStatus.OK);
         }
     }
     
+}
+
+    public ResponseEntity<RespostaModel> remover(long codigo){
+        pr.deleteById(codigo);
+        rm.setMensagem("O produto foi removido com sucesso");
+        return new ResponseEntity<RespostaModel>(rm, HttpStatus.OK);
+
     }
 }
