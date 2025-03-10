@@ -3,6 +3,11 @@
 
 ## Introdução
 
+Formada em Logística em 2022, iniciei minha aventura na área de TI em 2021, quando surgiu a oportunidade de realizar um curso de Desenvolvimento em Python. GOstei bastante do meu aprendizado durante o curso, e após minha formação ingressei no mercado como Trainee na área de teste de software.
+Atuo como Analista de Teste de Software aproximadamente 3 anos, e encontrei na FATEC um caminho para uma formação de qualidade na área de tecnologia.
+Tenho poucas publicações de projetos no github, e não participei de tantos eventos, mas acredito que acima de tudo isso, tentar sempre melhorar é o essencial.
+
+
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
