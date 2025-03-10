@@ -11,7 +11,7 @@ Tenho poucas publicações de projetos no github, e não participei de tantos ev
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
-* [GIT](https://www.git.com)
+* [GitHub](https://github.com/carladaiane)
 * [LinkedIn](https://www.linkedin.com)
 
 ## Meus Principais Conhecimentos
