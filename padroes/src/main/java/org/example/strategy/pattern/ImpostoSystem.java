@@ -1,3 +1,5 @@
+package org.example.strategy.pattern;
+
 import java.util.Scanner;
 
 public class ImpostoSystem {
@@ -34,7 +36,6 @@ public class ImpostoSystem {
         double valorImposto = calculadora.calcularImposto(valor);
         double valorTotal = valor + valorImposto;
 
-        // Arredondando para 2 casas decimais
         valorImposto = Math.round(valorImposto * 100.0) / 100.0;
         valorTotal = Math.round(valorTotal * 100.0) / 100.0;
         valor = Math.round(valor * 100.0) / 100.0;

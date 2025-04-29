@@ -1,3 +1,5 @@
+package org.example.strategy.pattern;
+
 public class ISScalc implements ImpostoInterface {
     @Override
     public double calcular(double valor) {

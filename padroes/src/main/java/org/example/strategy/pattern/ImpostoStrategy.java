@@ -1,3 +1,5 @@
+package org.example.strategy.pattern;
+
 public class ImpostoStrategy {
     private ImpostoInterface estrategia;
 
