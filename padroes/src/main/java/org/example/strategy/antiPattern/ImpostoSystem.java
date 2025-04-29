@@ -28,7 +28,6 @@ public class ImpostoSystem {
 
         double valorImposto = 0;
 
-        // Anti-pattern: ainda usando if-else em vez de delegar direito
         if (opcao == 1) {
             valorImposto = icms.calcular(valor);
         } else if (opcao == 2) {
