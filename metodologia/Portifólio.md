@@ -1,7 +1,7 @@
 
 # Carla Daiane Freitas dos SAntos Araujo
 
-## Introdução
+## Descrição
 
 Formada em Logística em 2022, iniciei minha aventura na área de TI em 2021, quando surgiu a oportunidade de realizar um curso de Desenvolvimento em Python. Atuo como Analista de Teste de Software aproximadamente 3 anos, e encontrei na FATEC um caminho para uma formação de qualidade na área de tecnologia.
 Tenho poucas publicações de projetos no github, e não participei de tantos eventos, mas acredito que acima de tudo isso, tentar sempre melhorar é o essencial.
@@ -24,6 +24,8 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 
 
 ## Meus Projetos
+
+### 3° Semestre
 
 No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos obtidos de portais e APIs públicas. O objetivo foi oferecer aos pesquisadores uma ferramenta capaz de filtrar, categorizar e disponibilizar automaticamente as informações com facíl acesso.
 
