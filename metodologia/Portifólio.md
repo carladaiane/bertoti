@@ -42,17 +42,17 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
 #### Hard Skills
-- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação (nível: básico)  
-- **REST API Design** – DTOs, versionamento, tratamento de exceções (nível: básico)  
-- **Web Scraping (Jsoup)** – extração de conteúdo e agendamento (nível: básico)  
-- **Thymeleaf** – templates responsivos e integração com Spring (nível: médio)  
-- **Git** – estratégias de branching, pull requests e revisões (nível: médio)
+- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação - **nível: básico** 
+- **REST API Design** – DTOs, versionamento, tratamento de exceções - **nível: básico**
+- **Web Scraping (Jsoup)** – extração de conteúdo e agendamento - **nível: básico**  
+- **Thymeleaf** – templates responsivos e integração com Spring - **nível: intermediário**
+- **Git** – estratégias de branching, pull requests e revisões - **nível: intermediário**
 
 #### Soft Skills
-- **Comunicação** – conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
-- **Colaboração** – atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
-- **Proatividade** – identifiquei e implementei otimizações de performance antes dos deadlines.  
-- **Organização** – gerenciei tarefas no Jira, cumprindo estimativas de story points e mantendo o ritmo de entrega.
+- **Comunicação** – Conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
+- **Colaboração** – Atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
+- **Proatividade** – Identifiquei e implementei otimizações de performance antes dos deadlines.  
+- **Organização** – Gerenciei tarefas no Jira, cumprindo estimativas de story points e mantendo o ritmo de entrega.
 
 ### Em 2022-1
 Mesmo formato
