@@ -3,10 +3,8 @@
 
 ## Introdução
 
-Formada em Logística em 2022, iniciei minha aventura na área de TI em 2021, quando surgiu a oportunidade de realizar um curso de Desenvolvimento em Python. GOstei bastante do meu aprendizado durante o curso, e após minha formação ingressei no mercado como Trainee na área de teste de software.
-Atuo como Analista de Teste de Software aproximadamente 3 anos, e encontrei na FATEC um caminho para uma formação de qualidade na área de tecnologia.
+Formada em Logística em 2022, iniciei minha aventura na área de TI em 2021, quando surgiu a oportunidade de realizar um curso de Desenvolvimento em Python. Atuo como Analista de Teste de Software aproximadamente 3 anos, e encontrei na FATEC um caminho para uma formação de qualidade na área de tecnologia.
 Tenho poucas publicações de projetos no github, e não participei de tantos eventos, mas acredito que acima de tudo isso, tentar sempre melhorar é o essencial.
-
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
@@ -15,13 +13,19 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 * [LinkedIn](https://www.linkedin.com)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
-
+- Java & Spring Boot (REST, Data JPA, Thymeleaf)
+- Python (scripting e análise de dados)
+- SQL (MySQL, PostgreSQL)
+- Git & GitHub (branching, pull requests, code review)
+- Web Scraping (Jsoup)
+- APIs REST (modelagem de endpoints, DTOs)
+- Modelagem de Dados (ER, normalização)
+- Metodologias Ágeis (SCRUM)
 
 ## Meus Projetos
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web voltada para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas. O principal objetivo foi oferecer aos pesquisadores uma ferramenta de alto desempenho e fácil usabilidade, capaz de filtrar, categorizar e disponibilizar automaticamente as informações.
+
 
 [GIT](https://www.git.com)
 
