@@ -13,33 +13,46 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 * [LinkedIn](https://www.linkedin.com)
 
 ## Meus Principais Conhecimentos
-- Java & Spring Boot (REST, Data JPA, Thymeleaf)
-- Python (scripting e análise de dados)
-- SQL (MySQL, PostgreSQL)
-- Git & GitHub (branching, pull requests, code review)
-- Web Scraping (Jsoup)
-- APIs REST (modelagem de endpoints, DTOs)
-- Modelagem de Dados (ER, normalização)
-- Metodologias Ágeis (SCRUM)
+- **Java & Spring Boot** (REST, Data JPA, Thymeleaf)  
+- **Python** (scripting e análise de dados)  
+- **SQL** (MySQL, PostgreSQL)  
+- **Git & GitHub** (branching, pull requests, code review)  
+- **Web Scraping** (Jsoup)  
+- **APIs REST** (modelagem de endpoints, DTOs)  
+- **Modelagem de Dados** (ER, normalização)  
+- **Metodologias Ágeis** (SCRUM)
+
 
 ## Meus Projetos
 
-No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web voltada para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos provenientes de portais e APIs públicas. O principal objetivo foi oferecer aos pesquisadores uma ferramenta de alto desempenho e fácil usabilidade, capaz de filtrar, categorizar e disponibilizar automaticamente as informações.
+No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos obtidos de portais e APIs públicas. O objetivo foi oferecer aos pesquisadores uma ferramenta capaz de filtrar, categorizar e disponibilizar automaticamente as informações com facíl acesso.
 
-
-[GIT](https://www.git.com)
+[![GitHub do Projeto](https://img.shields.io/badge/GitHub-Porygon2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PorygonAPI/Porygon2)
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- **Java 22** – base da aplicação e JVM moderna  
+- **Spring Boot 3.3.3** (Web, Data JPA, Thymeleaf, DevTools) – rapidez no desenvolvimento e configuração  
+- **MySQL** – banco relacional para armazenar portais, notícias, APIs e tags  
+- **Lombok** – redução de verbosidade em entidades e DTOs  
+- **Jsoup** – scraping de conteúdo HTML de portais  
+- **Jackson** – serialização e desserialização de JSON e XML  
+- **Maven** – gerenciamento de dependências e build
 
 #### Contribuições Pessoais
 Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação (nível: básico)  
+- **REST API Design** – DTOs, versionamento, tratamento de exceções (nível: básico)  
+- **Web Scraping (Jsoup)** – extração de conteúdo e agendamento (nível: básico)  
+- **Thymeleaf** – templates responsivos e integração com Spring (nível: médio)  
+- **Git** – estratégias de branching, pull requests e revisões (nível: médio)
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- **Comunicação** – conduzi refinamento de backlog e apresentei demos de funcionalidades para a equipe e stakeholders.  
+- **Colaboração** – atuei em pair programming para alinhar regras de negócio e solucionar bugs críticos.  
+- **Proatividade** – identifiquei e implementei otimizações de performance antes dos deadlines.  
+- **Organização** – gerenciei tarefas no Jira, cumprindo estimativas de story points e mantendo o ritmo de entrega.
 
 ### Em 2022-1
 Mesmo formato
