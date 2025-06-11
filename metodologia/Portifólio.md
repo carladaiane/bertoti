@@ -25,7 +25,7 @@ Faça uma breve introdução sobre você. Fale de sua formação e carreira. Cas
 
 ## Meus Projetos
 
-### 3° Semestre
+### 3° Semestre - 2024
 
 No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Solutions & Web), desenvolvemos a API Porygon2 — uma aplicação web para a captura, organização e consulta de grandes volumes de notícias e dados estratégicos obtidos de portais e APIs públicas. O objetivo foi oferecer aos pesquisadores uma ferramenta capaz de filtrar, categorizar e disponibilizar automaticamente as informações com facíl acesso.
 
