@@ -41,9 +41,11 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 - **Maven** – gerenciamento de dependências e build
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Nesse projeto atuei como Scrum Master, auxiliei nas entregas dentro do prazo, distribuição das tarefas, ajuda em desafios técnicos e da interação do grupo. Também fiz a gestão das reuniões com o time, sempre tentando trazer ferramentas para melhor fluidez do projeto.
+Uma das ferramentas que trouxe para o projeto foi o Jira, com ela conseguios gerir melhor o conceito de história e tarefas por entragas na sprint e rastrear os commits das funcionalidades, essa ferramenta nos ajudou na organização.
+Nesse projeto eu atuei algumas vezes no código para ajustar o front, mas minha contruição efetiva foi no processo de scrum do projeto.
 
-#### Hard Skills
+#### Hard Skill 
 - **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação - **nível: básico** 
 - **REST API Design** – DTOs, versionamento, tratamento de exceções - **nível: básico**
 - **Web Scraping (Jsoup)** – extração de conteúdo e agendamento - **nível: básico**  
