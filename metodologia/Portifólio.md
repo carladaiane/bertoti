@@ -41,9 +41,9 @@ No terceiro semestre de 2024 (2024-2), em colaboração com a GSW (Global Soluti
 - **Maven** – gerenciamento de dependências e build
 
 #### Contribuições Pessoais
-Nesse projeto atuei como Scrum Master, auxiliei nas entregas dentro do prazo, distribuição das tarefas, ajuda em desafios técnicos e da interação do grupo. Também fiz a gestão das reuniões com o time, sempre tentando trazer ferramentas para melhor fluidez do projeto.
-Uma das ferramentas que trouxe para o projeto foi o Jira, com ela conseguios gerir melhor o conceito de história e tarefas por entragas na sprint e rastrear os commits das funcionalidades, essa ferramenta nos ajudou na organização.
-Nesse projeto eu atuei algumas vezes no código para ajustar o front, mas minha contruição efetiva foi no processo de scrum do projeto.
+Neste projeto, atuei como Scrum Master, auxiliando nas entregas dentro do prazo, na distribuição de tarefas, na superação de desafios técnicos e na promoção da interação do grupo. Também fui responsável pela gestão das reuniões com o time, sempre buscando ferramentas que favorecessem a fluidez do projeto.
+Uma das ferramentas que introduzi foi o Jira, que nos permitiu gerenciar melhor o conceito de histórias e tarefas por entregas na sprint, além de rastrear os commits das funcionalidades. Essa ferramenta foi essencial para a organização da equipe.
+Embora eu tenha contribuído pontualmente com ajustes no código do front-end, minha principal atuação foi na condução e facilitação do processo Scrum ao longo do projeto.
 
 #### Hard Skill 
 - **Spring Data JPA** – consultas dinâmicas, relacionamentos M:N, paginação - **nível: básico** 
