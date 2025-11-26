@@ -161,3 +161,6 @@ Durante o segundo semestre de 2024 (2024-1), desenvolvemos a aplicação EMA (Es
 - **Organização**
 
 
+### 1° Semestre - 2023
+
+**Em breve teremos a descrição**
